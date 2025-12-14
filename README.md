@@ -1,17 +1,22 @@
-My name is Aadesh
-## Hi there 👋
+# Hi, I'm Aadesh 👋
 
-<!--
-**aadeshgavali6/aadeshgavali6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst with hands-on experience in SQL, Python, Excel, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 Skills
+- SQL (MySQL / PostgreSQL)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Excel (Pivot Tables, VLOOKUP/XLOOKUP)
+- Power BI (DAX, Dashboards)
+
+
+## 📁 Projects
+- 📈 Sales Data Analysis (SQL + Excel)
+- 🛒 E-commerce Customer Insights (Python)
+- 📊 Power BI Dashboard – Revenue Analysis
+
+
+## 📚 Currently Learning
+- Advanced SQL
+- Statistics for Data Analysis
