@@ -13,7 +13,6 @@
 
 ## 📁 Projects
 - 📈 Sales Data Analysis (SQL + Excel)
-- 🛒 E-commerce Customer Insights (Python)
 - 📊 Power BI Dashboard – Revenue Analysis
 
 
