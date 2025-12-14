@@ -20,3 +20,7 @@
 ## 📚 Currently Learning
 - Advanced SQL
 - Statistics for Data Analysis
+
+
+## 📫 Connect with Me
+- LinkedIn: (https://www.linkedin.com/in/adesh-gavali-a2b86415b/)
