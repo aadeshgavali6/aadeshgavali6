@@ -34,3 +34,7 @@
 ## 📫 Connect with Me
 - LinkedIn: (https://www.linkedin.com/in/adesh-gavali-a2b86415b/)
 - Email: (gavaliaadesh6@gmail.com)
+
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
