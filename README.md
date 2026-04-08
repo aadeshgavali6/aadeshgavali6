@@ -1,25 +1,36 @@
 # Hi, I'm Aadesh 👋
 
+💼 Forex Operations Executive | Aspiring Data Analyst  
+📍 Mumbai, India  
 
-📊 Aspiring Data Analyst with hands-on experience in SQL, Python, Excel, and Power BI.
+## 🚀 Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Joins, Window Functions, Views)
+- Power BI (Dashboards, Data Visualization)
+- Excel
 
+## 📊 Projects
 
-## 🔧 Skills
-- SQL (MySQL / PostgreSQL)
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Excel (Pivot Tables, VLOOKUP/XLOOKUP)
-- Power BI (DAX, Dashboards)
+### 🔹 Bank Customer Churn Analysis
+- Used Python & Power BI to analyze customer churn
+- Built dashboard for insights
+- Identified key churn factors
 
+### 🔹 Ecommerce Data Analysis
+- Performed EDA using Python
+- Cleaned and visualized sales data
+- Found trends in customer behavior
 
-## 📁 Projects
-- 📈 Sales Data Analysis (SQL + Excel)
-- 📊 Power BI Dashboard – Revenue Analysis
+### 🔹 Employee Workforce Analysis (SQL)
+- Created database and queries
+- Used joins, ranking, aggregations
+- Generated insights on salary & workforce
 
-
-## 📚 Currently Learning
+## 📈 Currently Learning
 - Advanced SQL
-- Statistics for Data Analysis
-
+- Data Analytics & Visualization
+- Business Analytics
 
 ## 📫 Connect with Me
 - LinkedIn: (https://www.linkedin.com/in/adesh-gavali-a2b86415b/)
+- Email: (gavaliaadesh6@gmail.com)
